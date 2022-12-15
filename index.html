@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>OCC Okinawa | IrisOhyama</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css"
+		integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+	<script src="https://kit.fontawesome.com/7bccc10542.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+	<!----header--->
+	<header>
+		<a href="index.html" class="logo">OCC</a>
+
+		<ul class="navlist">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="https://www.occ.co.jp/company.html">Company</a></li>
+			<li><a href="https://www.occ.co.jp/soft.html">Service</a></li>
+			<li><a href="#contact">Contact</a></li>
+			<li><a href="https://www.occ.co.jp/toiawase.html">Support</a></li>
+		</ul>
+		<form action="/form/submit" method="GET">
+			<input type="text" name="text" class="search" placeholder="Search here!">
+			<input type="submit" name="submit" class="submit" value="Search">
+		</form>
+		<div class="header-icons">
+			<a onclick="showcartbtn()"><i class='bx bx-shopping-bag'><span id="count">0</span></i></a>
+			<div class="bx bx-menu" id="menu-icon"></div>
+		</div>
+
+	</header>
+	<!----home--->
+
+	<section class="home" id="home">
+		<video autoplay loop muted plays-inline class="back-video">
+			<source src="img/videobackground.mp4" type="video/mp4">
+		</video>
+		<div class="home-text">
+			<h2><span>Iris Ohyama</span></h2>
+			<p>New colors, now also available in men's sizing</p>
+			<a href="allProduct.html" class="btn">All Product</a>
+		</div>
+	</section>
+
+	<!----featured--->
+	<!----new--->
+	<section class="new" id="new">
+		<div class="center-text">
+			<h2>おすすめ商品</h2>
+		</div>
+
+		<div class="new-content">
+
+			<div class="box">
+				<img src="img/a1.png">
+				<h5><a href="H516359F.html" style="color:#2f3542 ;"><input type="checkbox" name="entry.978678856"
+							value="1" checked style="display: none;" /> ヘルシーサポート炊飯器 IH 5.5合 ホワイトRC-IJH50-W</a></h5>
+				<p><span style="display:none;">18230</span><span style="color:rgb(207, 45, 45);">18,230</span> 円</p>
+				<div class="sale">
+					<h4>OCC1</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)">Add cart</button>
+			</div>
+
+			<div class="box">
+				<img src="img/a2.png">
+				<h5><a href="H517566F.html" style="color:#2f3542 ;"><input type="checkbox" name="entry.2136523900"
+							value="1" checked style="display: none;" />アイリスオーヤマ 43V型 4Kチューナー内蔵 液晶テレビ LUCA 43XUC38VC2番組同時録</a></h5>
+
+				<p><span style="display:none;">52500</span><span style="color:rgb(207, 45, 45);">52,500</span> 円</span>
+
+				</p>
+				<div class="sale">
+					<h4>Sale</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)" name="">Add cart</button>
+			</div>
+
+			<div class="box">
+				<img src="img/a4.png">
+				<h5><a href="H288343F.html" style="color:#2f3542 ;"> <input type="checkbox" name="entry.867653544"
+							value="1" checked="" style="display: none;">
+						サーキュレーターアイ 20畳 DCsilent KCF-SDS151T-W</a></h5>
+				<p><span style="display:none;">15760</span><span style="color:rgb(207, 45, 45);">15,760</span> 円</p>
+				<div class="sale">
+					<h4>Sale</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)">Add cart</button>
+			</div>
+
+			<div class="box">
+				<img src="img/a6.png">
+				<h5><a href="H274532.html" style="color:#2f3542 ;"> <input type="checkbox" name="entry.22160191"
+							value="1" checked="" style="display: none;">
+						サーキュレーター衣類乾燥除湿機 天面ブラック IJD-I50</a></h5>
+				<p><span style="display:none;">25530</span><span style="color:rgb(207, 45, 45);">25,530</span> 円</p>
+				<div class="sale">
+					<h4>Sale</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)">Add cart</button>
+			</div>
+		</div>
+		<div class="allproduct-link">
+			<a href="allProduct.html">もっと見る<i class="fa-solid fa-angles-right"></i></a>
+		</div>
+	</section>
+	<!----cta--->
+	<section class="cta">
+		<div class="cta-text">
+			<h6>WINTER ON SALE</h6>
+			<h4>10% OFF <br> OCC SALE</h4>
+			<a href="allProduct.html" class="btn">Shop Now</a>
+		</div>
+	</section>
+
+	<!----new--->
+	<section class="new" id="new">
+		<div class="center-text">
+			<h2>人気商品</h2>
+		</div>
+		<div class="new-content">
+			<div class="box">
+				<img src="img/a14.png">
+				<h5><a href="G517273.html" style="color:#2f3542 ;"><input type="checkbox" name="entry.1506755822"
+							value="1" checked style="display: none;" />リンサークリーナー RNS-P10-W</a></h5>
+				<p><span style="display:none;">19710</span><span style="color:rgb(207, 45, 45);">19,710</span> 円</p>
+				<div class="sale">
+					<h4>Sale</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)">Add cart</button>
+			</div>
+
+			<div class="box">
+				<img src="img/a15.png">
+				<h5><a href="H288092F.html" style="color:#2f3542 ;"><input type="checkbox" name="entry.643346223"
+							value="1" checked style="display: none;" />充電式サイクロンスティッククリーナーマルチツールセットSCD-L1P-Bブラック</a></h5>
+				<p><span style="display:none;">43790</span><span style="color:rgb(207, 45, 45);">43,790</span> 円</p>
+				<div class="sale">
+					<h4>Sale</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)">Add cart</button>
+			</div>
+
+			<div class="box">
+				<img src="img/a17.png">
+				<h5><a href="H274498F.html" style="color:#2f3542 ;"><input type="checkbox" name="entry.1192712639"
+							value="1" checked style="display: none;" />脱臭くつ乾燥機 カラリエ ホワイト SD-C2-W</a></h5>
+				<p><span style="display:none;">6690</span><span style="color:rgb(207, 45, 45);">6,690</span> 円</p>
+				<div class="sale">
+					<h4>Sale</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)">Add cart</button>
+			</div>
+
+			<div class="box">
+				<img src="img/a10.png">
+				<h5><a href="H273921F.html" style="color:#2f3542 ;"> <input type="checkbox" name="entry.1957821777"
+							value="1" checked style="display: none;" />
+						ふとん乾燥機カラリエ タイマー付 FK-C3 全2色</a></h5>
+				<p><span style="display:none;">15760</span><span style="color:rgb(207, 45, 45);">15,760</span> 円</p>
+				<div class="sale">
+					<h4>Sale</h4>
+				</div>
+				<button class="button-add-card button1" id="add-btn" onclick="addCart(this)">Add cart</button>
+			</div>
+
+		</div>
+		<div class="allproduct-link">
+			<a href="allProduct.html">もっと見る<i class="fa-solid fa-angles-right"></i></a>
+		</div>
+	</section>
+
+
+	<!----brand--->
+	<section class="brand">
+		<div class="brand-content">
+			<div class="main">
+				<a href="https://www.occ.co.jp/"><img src="img/brand1.png" style="float:right;"></a>
+			</div>
+
+			<div class="main">
+				<a href="https://www.irisplaza.co.jp/"><img src="img/brand2.png"></a>
+			</div>
+
+			<!-- <div class="main">
+				<img src="img/brand3.png">
+			</div>
+
+			<div class="main">
+				<img src="img/brand4.png">
+			</div>
+
+			<div class="main">
+				<img src="img/brand5.png">
+			</div>
+
+			<div class="main">
+				<img src="img/brand6.png">
+			</div> -->
+
+		</div>
+	</section>
+
+	<!----contact--->
+	<section class="contact" id="contact">
+		<div class="main-contact">
+			<h3>OCC OKINAWA</h3>
+			<h5>Let's Connect With Us</h5>
+			<div class="icons">
+				<a href="#"><i class='bx bxl-facebook-square'></i></a>
+				<a href="#"><i class='bx bxl-instagram-alt'></i></a>
+				<a href="#"><i class='bx bxl-twitter'></i></a>
+			</div>
+		</div>
+
+		<div class="main-contact">
+			<h3>Explore</h3>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="https://www.occ.co.jp/company.html">Company</a></li>
+			<li><a href="https://www.occ.co.jp/soft.html">Service</a></li>
+			<li><a href="#contact">Contact</a></li>
+			<li><a href="https://www.occ.co.jp/toiawase.html">Support</a></li>
+		</div>
+
+		<div class="main-contact">
+			<h3>事業情報</h3>
+			<li><a href="https://www.occ.co.jp/soft/si.html">システムインテグレーション</a></li>
+			<li><a href="https://www.occ.co.jp/soft/cloud.html">クラウドサービス</a></li>
+			<li><a href="https://www.occ.co.jp/soft/idc.html">iDCサービス</a></li>
+			<li><a href="https://www.occ.co.jp/soft/dr.html">ディザスターリカバリーサービス</a></li>
+			<li><a href="https://www.occ.co.jp/soft/network.html">ネットワークソリューション</a></li>
+		</div>
+
+		<div class="main-contact">
+			<h3>サポート情報</h3>
+			<li><a href="https://www.occ.co.jp/toiawase/Product.html">製品について</a></li>
+			<li><a href="https://www.occ.co.jp/toiawase/support.html">サポートについて</a></li>
+		</div>
+
+	</section>
+	<div id="box-table">
+		<table id="product-table">
+			<tbody id="showView">
+
+			</tbody>
+			<tr>
+				<td colspan="3"><a href="viewCart.html"><button class="button-add-card button1">View Cart</button></a>
+				</td>
+				<td colspan="3"><button class="button-add-card button1" onclick="deleteAllProduct()">Delete</button>
+				</td>
+			</tr>
+		</table>
+
+	</div>
+	<div id="toast"></div>
+	<div class="last-text">
+		<p>Copyright © 2022 All rights reserved | This template is made with by Tahmid Ahmed</p>
+	</div>
+	<!----scroll top--->
+	<a href="#" class="top"><i class='bx bx-up-arrow-alt'></i></a>
+
+
+	<script src="https://unpkg.com/scrollreveal"></script>
+
+	<!----custom js link--->
+	<script src="js/script.js"></script>
+	<script src="js/viewCart.js"></script>
+</body>
+
+</html>

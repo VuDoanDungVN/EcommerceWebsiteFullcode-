@@ -1,0 +1,55 @@
+
+.main-form{
+    margin-top: 150px;
+    width: 900px;
+    margin: 150px auto 0px;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .btnMail{
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+  }
+  .btnMail:hover{
+    background-color: #45a049;
+  }
+  .required{
+    font-size: 11px;
+    float: right;
+    color: red;
+  }
+  .messageForm{
+    background-color: rgb(221, 113, 113);
+    opacity: 80%;
+    font-size: 15px;
+    text-align: center;
+    color: #000;
+  }
+  .messageFormSusscess{
+    background-color: #4CAF50;
+    color: #4CAF50;
+    opacity: 80%;
+    font-size: 15px;
+    text-align: center;
+    color: #000;
+  }

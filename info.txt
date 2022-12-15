@@ -1,2 +1,6 @@
-https://www.youtube.com/playlist?list=PL_-VfJajZj0VkWYODGeMuraS8V7xaOZM8
-Playlist xem về Reponsive
+Hướng dẫn upload lên Github
+
+git add .
+git commit -m "Vu Doan Dung"
+git push -u origin main
+(Nhập mk là xong)

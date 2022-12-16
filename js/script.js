@@ -139,3 +139,5 @@ function showCart() {
 	document.getElementById("showView").innerHTML = infoProduct;
 
 }
+
+

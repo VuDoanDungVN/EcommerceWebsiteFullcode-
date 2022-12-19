@@ -8,7 +8,7 @@ git push -u origin main<br>
 <h3>新しい商品を追加する方法についての説明<br></h3>
 
 <h3>I : 新製品の写真を追加</h3>
-1:「img」と「product」の 2 か所にある製品の画像を含むファイルに移動します。<br>
+ステップ 1:「img」と「product」の 2 か所にある製品の画像を含むファイルに移動します。<br>
 「img」は、ホームページ上の製品のプロフィール写真の場所です。「製品」商品詳細欄に商品写真を表示する場所です。<br>
 <b>***\IrisOhyama\img<br></b>
 画像サイズは 300px * 300px で、画像には背景がありません。<br>
@@ -18,10 +18,10 @@ git push -u origin main<br>
 このフォルダに序数に従って1を作成します,次に、新しい製品のイメージをそのフォルダーにコピーします。<br>
 (写真の最大枚数は 6 枚です。プログラムの知識があれば、さらに追加できます).<br>
 
-2 : VisualStudioCode アプリで製品のコードを開く.<br>
+ステップ 2 : VisualStudioCode アプリで製品のコードを開く.<br>
 ファイル「allproduct.html」を開きます.<br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXabmOnDZNDITmWZ6F07qM1hlfPSmAqX8GSKR8ayo9KXRrPR_8ltqY7Nudvbk5kaHNUWL4w1cIgBY86YLNe59zcnosDuqovK1hzI4aBr5yqUlZD734z887liTNgmfzS7N9Idbj9KceAKFUZr6_tr4moEOp4KZxpE469oqdkKSPCGALW3DJdysG9mNq/w945-h600-p-k-no-nu/1.png"> <br>
-画像に示すようにコードの一部をコピーし、コードの上に貼り付けます.<br>
+画像に示すようにCodeの一部をコピーし、Codeの上に貼り付けます.<br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF7wFKzZTjvqpuxpizOSFFjGCoRc5zEVlAJRX4xefiayDYZgCYPlAXDNQhpJTZoSoOGHzBSypV_yxf4JmxeP2UaCEmvT_shFHkqXa0gEiAkMkEJSnjqv8TmKbNVs8NRgMHooQEdu4UEyvFjEcdIlirEGHfI7LB7ck9dU0MEFJm5waUdzKpTXC2gz6b/w623-h280/2.png"> <br>
 貼り付け後、写真のように商品ページに同名の商品が2つ表示されます。新製品の名前、価格、およびイメージを変更します。<br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZiI6gyHpJugq6zmeBlZya4VyEzxrWNM4uaGcB70Yl809Z6W4aMdNaIdr1Is6xQnucTk0i0Lu_WzIbYUr9T0EZFl0YImGV3Jsx5dWJ-K9WLp02GSA3I3OlDICiJlE_i5Rvtd65U371NZyci8FW-CsrozhF4INlr62bNz1TwIRvRgIJyR2kX5pWv6Ct/w598-h269/3.png"> <br>

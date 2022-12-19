@@ -37,19 +37,17 @@ git push -u origin main<br>
 「XXX」は、名前を付けたい製品コードです。
 「html」は Web ファイル形式です。
 新しく作成したファイルを開き、任意の製品の 1 つのファイルを選択し、任意の Web サイトのすべてのコンテンツをコピーして、新しく作成したページに貼り付けます。<br>
+<br>
 ステップ 2: 新製品の内容を次のように変更します。
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQPzTuzVYZDNVvfezYyTA91VUMLqCD3s_pDmLckOBkE0jVMWZabMwp9qNjMw3C-BvFA_5Q4rGYMvC2_k14mIDE4GfgRbsNRP6bRLbxEZb3PRHU4d1Fqqn1TI9cR6TRMOmG64vuSpwT0KcIg3pD5ADQo_5o7wDbMGq8evEubI2q4fyHYLbTjOFY5n-3/w559-h304/5.png"> <br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQPzTuzVYZDNVvfezYyTA91VUMLqCD3s_pDmLckOBkE0jVMWZabMwp9qNjMw3C-BvFA_5Q4rGYMvC2_k14mIDE4GfgRbsNRP6bRLbxEZb3PRHU4d1Fqqn1TI9cR6TRMOmG64vuSpwT0KcIg3pD5ADQo_5o7wDbMGq8evEubI2q4fyHYLbTjOFY5n-3/w559-h304/5.png">
 (名前、価格、画像、JavaScript コードを追加) 次のように:
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRzeSLBa92ec86LfozPpu2Kv0VbVvva5uxSoEHj2ni-ccy-XXI9ISSVKDDbPMuIEl66ydnEbDDTGV6B2C6-n9r9pYD2ixk00-0_gU3j0MWGSzx1CyBqIKQEh6i226CtVQ_WA9dDi7NCo10UJH2Z97zArxHZNI4PXklGfWEQZd5cy391SjqdSHQrtok/w618-h408/6.png"> <br>
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRzeSLBa92ec86LfozPpu2Kv0VbVvva5uxSoEHj2ni-ccy-XXI9ISSVKDDbPMuIEl66ydnEbDDTGV6B2C6-n9r9pYD2ixk00-0_gU3j0MWGSzx1CyBqIKQEh6i226CtVQ_WA9dDi7NCo10UJH2Z97zArxHZNI4PXklGfWEQZd5cy391SjqdSHQrtok/w618-h408/6.png">
 貼り付け後、「allproduct.html」ページに移動し、先ほど作成したページへのリンクを変更します。
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiqR6aQLaOTgSPf11yru6TSgUlsBdgNpT6LpZIpzx-m6dNLAbtZfQ3XVKiy4L5rbRyniQYbh1gKSBVczCoHD83t_D3FjD3PY08cyJJiXcXBiyD_Kb6kHzWk8fbgS9Cof9OnxTj02gjAC7kiyN3pegmEryxYyGv4O4SMgOug8TAu96qnuUjmRWf_DxT/w614-h102/7.png"> <br>
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiqR6aQLaOTgSPf11yru6TSgUlsBdgNpT6LpZIpzx-m6dNLAbtZfQ3XVKiy4L5rbRyniQYbh1gKSBVczCoHD83t_D3FjD3PY08cyJJiXcXBiyD_Kb6kHzWk8fbgS9Cof9OnxTj02gjAC7kiyN3pegmEryxYyGv4O4SMgOug8TAu96qnuUjmRWf_DxT/w614-h102/7.png">
 Codeの 7 行目で、名前を新しい製品の名前に変更します<br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5QS0RenLCNVIs8hc-V0AITA34lz9Snwgnc93jdu1OMO_EU9-_RsIL6MRtIw4zrcntZaJT7HaFhtXdqmrEGWCfmBnzhMAy4kJiN0SKfNZAXiglKB9XMV0RhCK0uanV7NZ0P-RWLzLC70fFBUf_8ZEcy8pw4DljB-hoLjQeobBQXRGceyqZi5QftPq/w597-h117/8.png"> <br>
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5QS0RenLCNVIs8hc-V0AITA34lz9Snwgnc93jdu1OMO_EU9-_RsIL6MRtIw4zrcntZaJT7HaFhtXdqmrEGWCfmBnzhMAy4kJiN0SKfNZAXiglKB9XMV0RhCK0uanV7NZ0P-RWLzLC70fFBUf_8ZEcy8pw4DljB-hoLjQeobBQXRGceyqZi5QftPq/w597-h117/8.png">
 すべての情報を新製品の情報に変更したら、新製品の作成プロセスは終了です。また、新製品には次のデザインになります。
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNefqJXGFsykRTIB2Sx7wmFVxTBxuP4CqD2H_E3MXVzWJBjatqk5dsZ-4qT9By22LZD0r0LchABZ4UMPfilSHUKonat76FJjXuKLMIGfMIZ3q6B8ozJBCXHlJ9fcS2JLRhcJf2ATQDjAMc6780Lhjfz_htLbUbQ3bQgvJvpkNZdaNUmXG-kXn0_0BJ/w595-h295/9.png"> <br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNefqJXGFsykRTIB2Sx7wmFVxTBxuP4CqD2H_E3MXVzWJBjatqk5dsZ-4qT9By22LZD0r0LchABZ4UMPfilSHUKonat76FJjXuKLMIGfMIZ3q6B8ozJBCXHlJ9fcS2JLRhcJf2ATQDjAMc6780Lhjfz_htLbUbQ3bQgvJvpkNZdaNUmXG-kXn0_0BJ/w595-h295/9.png">
 ありがとうございました。
 
 

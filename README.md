@@ -46,7 +46,7 @@ git push -u origin main<br>
 コードの 7 行目で、名前を新しい製品の名前に変更します<br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5QS0RenLCNVIs8hc-V0AITA34lz9Snwgnc93jdu1OMO_EU9-_RsIL6MRtIw4zrcntZaJT7HaFhtXdqmrEGWCfmBnzhMAy4kJiN0SKfNZAXiglKB9XMV0RhCK0uanV7NZ0P-RWLzLC70fFBUf_8ZEcy8pw4DljB-hoLjQeobBQXRGceyqZi5QftPq/w597-h117/8.png"> <br>
 
-すべての情報を新製品の情報に変更したら、新製品の作成プロセスは終了です。また、新製品には次のインターフェースがあります。
+すべての情報を新製品の情報に変更したら、新製品の作成プロセスは終了です。また、新製品には次のデザインになります。
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNefqJXGFsykRTIB2Sx7wmFVxTBxuP4CqD2H_E3MXVzWJBjatqk5dsZ-4qT9By22LZD0r0LchABZ4UMPfilSHUKonat76FJjXuKLMIGfMIZ3q6B8ozJBCXHlJ9fcS2JLRhcJf2ATQDjAMc6780Lhjfz_htLbUbQ3bQgvJvpkNZdaNUmXG-kXn0_0BJ/w595-h295/9.png"> <br>
 ありがとうございました。
 

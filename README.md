@@ -43,7 +43,7 @@ git push -u origin main<br>
 貼り付け後、「allproduct.html」ページに移動し、先ほど作成したページへのリンクを変更します。
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiqR6aQLaOTgSPf11yru6TSgUlsBdgNpT6LpZIpzx-m6dNLAbtZfQ3XVKiy4L5rbRyniQYbh1gKSBVczCoHD83t_D3FjD3PY08cyJJiXcXBiyD_Kb6kHzWk8fbgS9Cof9OnxTj02gjAC7kiyN3pegmEryxYyGv4O4SMgOug8TAu96qnuUjmRWf_DxT/w614-h102/7.png"> <br>
 
-コードの 7 行目で、名前を新しい製品の名前に変更します<br>
+Codeの 7 行目で、名前を新しい製品の名前に変更します<br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5QS0RenLCNVIs8hc-V0AITA34lz9Snwgnc93jdu1OMO_EU9-_RsIL6MRtIw4zrcntZaJT7HaFhtXdqmrEGWCfmBnzhMAy4kJiN0SKfNZAXiglKB9XMV0RhCK0uanV7NZ0P-RWLzLC70fFBUf_8ZEcy8pw4DljB-hoLjQeobBQXRGceyqZi5QftPq/w597-h117/8.png"> <br>
 
 すべての情報を新製品の情報に変更したら、新製品の作成プロセスは終了です。また、新製品には次のデザインになります。

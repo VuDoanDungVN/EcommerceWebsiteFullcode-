@@ -26,7 +26,7 @@ git push -u origin main<br>
 貼り付け後、写真のように商品ページに同名の商品が2つ表示されます。新製品の名前、価格、およびイメージを変更します。<br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZiI6gyHpJugq6zmeBlZya4VyEzxrWNM4uaGcB70Yl809Z6W4aMdNaIdr1Is6xQnucTk0i0Lu_WzIbYUr9T0EZFl0YImGV3Jsx5dWJ-K9WLp02GSA3I3OlDICiJlE_i5Rvtd65U371NZyci8FW-CsrozhF4INlr62bNz1TwIRvRgIJyR2kX5pWv6Ct/w598-h269/3.png"> <br>
 
-新しい製品には、次のインターフェイスがあります。<br>
+新しい製品には、次のデザインになります。<br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gjbgK4lcfxcTxOjqCFfeIKysE6uiIXV3i-F-WZGQcu2MQJ50q9vfX4EJQ6Ugsce25b-h-7LwoaVXaT9tCHltYSSi8qz4P88pQUEDxcNRS103aT8aWWPOcJ4jGVrPxElhUv6cbWGxetpQe0ATCeNcoIy--tSdPI1IYRT8UlPB34c_pipsjRBl0dBs/w641-h238/4.png"> <br>
 
 <h3>II : 新製品の製品詳細ページを作成する</h3>

@@ -37,7 +37,6 @@ git push -u origin main<br>
 「XXX」は、名前を付けたい製品コードです。
 「html」は Web ファイル形式です。
 新しく作成したファイルを開き、任意の製品の 1 つのファイルを選択し、任意の Web サイトのすべてのコンテンツをコピーして、新しく作成したページに貼り付けます。<br>
-<br>
 ステップ 2: 新製品の内容を次のように変更します。
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQPzTuzVYZDNVvfezYyTA91VUMLqCD3s_pDmLckOBkE0jVMWZabMwp9qNjMw3C-BvFA_5Q4rGYMvC2_k14mIDE4GfgRbsNRP6bRLbxEZb3PRHU4d1Fqqn1TI9cR6TRMOmG64vuSpwT0KcIg3pD5ADQo_5o7wDbMGq8evEubI2q4fyHYLbTjOFY5n-3/w559-h304/5.png"> <br>
 (名前、価格、画像、JavaScript コードを追加) 次のように:

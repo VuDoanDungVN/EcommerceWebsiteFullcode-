@@ -4,7 +4,8 @@
 git add .<br>
 git commit -m "Vu Doan Dung"<br>
 git push -u origin main<br>
-
+もしサーバーにアップロードしたら、イメージをCopyして、サーバーに載せるだけです。<br>
+(上記の手順をスキップできます) <br>
 <h3>新しい商品を追加する方法についての説明<br></h3>
 
 <h3>I : 新製品の写真を追加</h3>

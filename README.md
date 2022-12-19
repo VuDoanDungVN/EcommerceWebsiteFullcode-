@@ -1,5 +1,5 @@
-# EcommerceWebsiteFullcode-
-Github へのアップロード手順. <br>
+# EcommerceWebsite
++ Github へのアップロード手順. <br>
 例：<br>
 git add .<br>
 git commit -m "Vu Doan Dung"<br>

@@ -10,11 +10,11 @@ git push -u origin main<br>
 <h3>I : 新製品の写真を追加</h3>
 1:「img」と「product」の 2 か所にある製品の画像を含むファイルに移動します。<br>
 「img」は、ホームページ上の製品のプロフィール写真の場所です。「製品」商品詳細欄に商品写真を表示する場所です。<br>
-C:\Users\NEW22WIN002\Desktop\IrisOhyama\img<br>
+<b>C:\Users\NEW22WIN002\Desktop\IrisOhyama\img<br></b>
 画像サイズは 300px * 300px で、画像には背景がありません。<br>
 	ｘｘｘ.png<br>
 
-C:\Users\NEW22WIN002\Desktop\IrisOhyama\product<br>
+<b>C:\Users\NEW22WIN002\Desktop\IrisOhyama\product<br></b>
 このフォルダに序数に従って1を作成します,次に、新しい製品のイメージをそのフォルダーにコピーします。<br>
 (写真の最大枚数は 6 枚です。プログラムの知識があれば、さらに追加できます).<br>
 

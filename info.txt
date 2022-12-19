@@ -1,6 +1,9 @@
-Hướng dẫn upload lên Github
+Github へのアップロード手順
 
 git add .
 git commit -m "Vu Doan Dung"
 git push -u origin main
 (Nhập mk là xong)
+
++ 新しい商品を追加する方法についての説明
+https://docs.google.com/document/d/1tLPKLU_Zajb61b4dZf99H10jkyGGzA0Ey80nOdfCO6U/edit?usp=sharing
